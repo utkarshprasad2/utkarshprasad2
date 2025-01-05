@@ -19,7 +19,11 @@ I’m a Master’s student in Computer Science at the University of Illinois Urb
 - **Languages**: Java, Python, C++, Kotlin, Shell Scripting, C, Rust, JavaScript, Haskell, Swift, TypeScript, R  
 - **Frameworks & Platforms**: React Native, Xamarin, Expo Go, Xcode, Android Studio, AWS, GCP  
 - **Data Science/ML**: Pandas, NumPy, SciPy, Librosa, Bayesian Modeling, Advanced Statistics, R Studio  
-- **Certifications**: Advanced D.S. C++ | IBM Skills Network AI | Meta Certified Android Developer | UIUC Data Science  
+- **Certifications**: 
+  [Advanced D.S. C++](https://drive.google.com/file/d/1In3mAc5C7IuOHTnBerAslOwJx6VpC2b3/view) |
+  [IBM Skills Network AI](https://www.coursera.org/account/accomplishments/certificate/YTSZJYMRTJ9X) |
+  [Meta Certified Android Developer](https://drive.google.com/file/d/10MGMAOzrIpelfd1XfUQzmTQc85wRp1iH/view) |
+  [UIUC Data Science](https://drive.google.com/file/d/1O00odUaPMEP8KKUJfOLFzZxIM-QyPjwu/view)  
 
 ---
 
