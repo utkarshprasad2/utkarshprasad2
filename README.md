@@ -36,7 +36,7 @@ I’m a Master’s student in Computer Science at the University of Illinois Urb
 
 - **Email**: [utkarshxprasad@gmail.com](mailto:utkarshxprasad@gmail.com)  
 - **Phone**: +1 (510) 474-8702  
-- **LinkedIn**: [Add Your URL Here](#)  
-- **Pronouns**: he/him  
-
+- **LinkedIn**: [https://www.linkedin.com/in/utkarsh-prasad-b6656b19a/](https://www.linkedin.com/in/utkarsh-prasad-b6656b19a/)  
+- **Pronouns**: he/him
+  
 **Thanks for visiting!** If you’re as excited about data-driven innovation as I am, feel free to reach out. Let’s build something great together!
